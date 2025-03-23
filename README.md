@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nnamllit1
-- 🔭 I’m currently working on [Nrbbr3d Engine V2 (and it's wiki)](https://github.com/Nnamllit1/nrbbr3d-Engine-V2)
+- 🔭 I’m currently working on [Nrbbr3d Engine (and it's wiki)](https://github.com/Nnamllit1/nrbbr3d-Engine-V2)
 
 <!---
 Nnamllit1/Nnamllit1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
