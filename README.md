@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nnamllit1
+Hi, I’m @Nnamllit1 👋
 - 🔭 I’m currently working on [Nrbbr3d Engine (and it's wiki)](https://github.com/Nnamllit1/nrbbr3d-Engine-V2)
 
 # 📊 GitHub Stats:
